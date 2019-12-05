@@ -1,0 +1,19 @@
+{
+  "name": "fenci",
+  "version": "1.0.0",
+  "description": "fenci server",
+  "main": "index.js",
+  "scripts": {
+    "fenci": "node src/fenci.js",
+    "predict": "node src/predict.js"
+  },
+  "keywords": [
+    "fenci"
+  ],
+  "author": "jevonszmx",
+  "license": "ISC",
+  "dependencies": {
+    "nodejieba": "^2.3.3",
+    "fasttext.js": "^1.1.2"
+  }
+}
