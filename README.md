@@ -11,7 +11,6 @@
 
 ```
 $ git clone https://github.com/jevonszmx/search_optimize.git
-$ tar zxfv model/data.txt.tar.gz
 $ cd search_optimize/train
 $ pip install -r requirements.txt
 $ python train.py
